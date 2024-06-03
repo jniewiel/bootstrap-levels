@@ -26,10 +26,22 @@
     "vscode": {
       "extensions": ["vortizhe.simple-ruby-erb",
                      "mbessey.vscode-rufo",
-                     "aliariff.vscode-erb-beautify"]
+                     "aliariff.vscode-erb-beautify",
+                        "eamodio.gitlens",
+                        "setobiralo.erb-commenter",
+                        "formulahendry.auto-rename-tag",
+                        "dzhavat.bracket-pair-toggler",
+                        "zhang-renyang.chat-gpt",
+                        "formulahendry.code-runner",
+                        "streetsidesoftware.code-spell-checker",
+                        "yandeu.five-server",
+                        "jeff-hykin.polacode-2019",
+                        "Postman.postman-for-vscode",
+                        "TabNine.tabnine-vscode"
+                      ]
+                    }
     }
   }
 
   // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
   // "remoteUser": "root"
-}
